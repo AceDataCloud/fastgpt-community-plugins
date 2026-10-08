@@ -6,7 +6,7 @@
       "version": "0.1.0",
       "type": "tool",
       "source": "https://github.com/AceDataCloud/FaceTransformFastGPT",
-      "commit": "93a2664eaf6e32aa3c58a0970ed608703b0a172e",
+      "commit": "15d8b5508c918ecbf6433c3c9aa18cc417526bc8",
       "submodule": "packages/tools/acedataFaceTransform",
       "path": ".",
       "status": "pending",
