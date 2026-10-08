@@ -2,6 +2,17 @@
   "version": 1,
   "plugins": [
     {
+      "pluginId": "acedataGrok",
+      "version": "0.1.0",
+      "type": "tool",
+      "source": "https://github.com/AceDataCloud/GrokFastGPT",
+      "commit": "9cdd342bb3abdd10ae3dfe7153ad93893d6fd0df",
+      "submodule": "packages/tools/acedataGrok",
+      "path": ".",
+      "status": "pending",
+      "support": "community"
+    },
+    {
       "pluginId": "activeCampaign",
       "version": "0.1.0",
       "type": "tool",
