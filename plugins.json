@@ -2,6 +2,17 @@
   "version": 1,
   "plugins": [
     {
+      "pluginId": "acedataMiniMax",
+      "version": "0.1.0",
+      "type": "tool",
+      "source": "https://github.com/AceDataCloud/MiniMaxFastGPT",
+      "commit": "54d38edd6ab0bd8559fb2d1024c0a8c4e7d033e0",
+      "submodule": "packages/tools/acedataMiniMax",
+      "path": ".",
+      "status": "pending",
+      "support": "community"
+    },
+    {
       "pluginId": "activeCampaign",
       "version": "0.1.0",
       "type": "tool",
