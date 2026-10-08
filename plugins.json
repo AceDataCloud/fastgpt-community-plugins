@@ -2,6 +2,17 @@
   "version": 1,
   "plugins": [
     {
+      "pluginId": "acedataFishAudio",
+      "version": "0.1.0",
+      "type": "tool",
+      "source": "https://github.com/AceDataCloud/FishAudioFastGPT",
+      "commit": "1f9e58a9489fd6f34e02b212211e57c5fad37395",
+      "submodule": "packages/tools/acedataFishAudio",
+      "path": ".",
+      "status": "pending",
+      "support": "community"
+    },
+    {
       "pluginId": "activeCampaign",
       "version": "0.1.0",
       "type": "tool",
