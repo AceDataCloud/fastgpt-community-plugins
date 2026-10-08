@@ -6,7 +6,7 @@
       "version": "0.1.1",
       "type": "tool",
       "source": "https://github.com/AceDataCloud/GoogleSearchFastGPT",
-      "commit": "76926cf43327edbe7a4a214e96cc26f7178351c1",
+      "commit": "4feb691eb3475f206dab4fffc220f8b608f4e55e",
       "submodule": "packages/tools/acedataGoogleSearch",
       "path": ".",
       "status": "pending",
