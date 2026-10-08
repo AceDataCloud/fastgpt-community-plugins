@@ -3,10 +3,10 @@
   "plugins": [
     {
       "pluginId": "acedataGoogleSearch",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "type": "tool",
       "source": "https://github.com/AceDataCloud/GoogleSearchFastGPT",
-      "commit": "440724f70b7e8a7007b7cdfc4a52af6b0a0f5445",
+      "commit": "76926cf43327edbe7a4a214e96cc26f7178351c1",
       "submodule": "packages/tools/acedataGoogleSearch",
       "path": ".",
       "status": "pending",
