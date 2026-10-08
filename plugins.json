@@ -2,6 +2,17 @@
   "version": 1,
   "plugins": [
     {
+      "pluginId": "acedataMidjourney",
+      "version": "0.1.0",
+      "type": "tool",
+      "source": "https://github.com/AceDataCloud/MidjourneyFastGPT",
+      "commit": "f4f42c406b44260e0bba924f4dd463b8b043fd87",
+      "submodule": "packages/tools/acedataMidjourney",
+      "path": ".",
+      "status": "pending",
+      "support": "community"
+    },
+    {
       "pluginId": "activeCampaign",
       "version": "0.1.0",
       "type": "tool",
