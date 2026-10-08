@@ -2,6 +2,17 @@
   "version": 1,
   "plugins": [
     {
+      "pluginId": "acedataQwenImage",
+      "version": "0.1.0",
+      "type": "tool",
+      "source": "https://github.com/AceDataCloud/QwenImageFastGPT",
+      "commit": "17d6b0457ac3de4740fd397f5c284cb9d32a20d3",
+      "submodule": "packages/tools/acedataQwenImage",
+      "path": ".",
+      "status": "pending",
+      "support": "community"
+    },
+    {
       "pluginId": "activeCampaign",
       "version": "0.1.0",
       "type": "tool",
