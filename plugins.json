@@ -6,7 +6,7 @@
       "version": "0.1.0",
       "type": "tool",
       "source": "https://github.com/AceDataCloud/GPTImageFastGPT",
-      "commit": "692905dc979aec4cf9c0727df3c111b3d32e78f9",
+      "commit": "74cd6b4db6c02afb1ed6c0f22248588cc5058cf2",
       "submodule": "packages/tools/acedataGptImage",
       "path": ".",
       "status": "pending",
