@@ -6,7 +6,7 @@
       "version": "0.1.0",
       "type": "tool",
       "source": "https://github.com/AceDataCloud/NanoBananaFastGPT",
-      "commit": "50a053811c1b90a1db6a17f9567b79c1ca8657a7",
+      "commit": "cfbf1c37f77b42b2c1d4911d867ea50138e5231b",
       "submodule": "packages/tools/acedataNanoBanana",
       "path": ".",
       "status": "pending",
