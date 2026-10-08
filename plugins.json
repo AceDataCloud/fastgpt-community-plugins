@@ -6,7 +6,7 @@
       "version": "0.1.0",
       "type": "tool",
       "source": "https://github.com/AceDataCloud/SeedanceFastGPT",
-      "commit": "f02fef8f03c2bc92b7032a121e7bf60aaa4a39cf",
+      "commit": "bc0ed7a216ec8cc75060f1e7b90320d1b66ff65b",
       "submodule": "packages/tools/acedataSeedance",
       "path": ".",
       "status": "pending",
