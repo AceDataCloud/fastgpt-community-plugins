@@ -3,10 +3,10 @@
   "plugins": [
     {
       "pluginId": "acedataFlux",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "type": "tool",
       "source": "https://github.com/AceDataCloud/FluxFastGPT",
-      "commit": "330b1765db4e5c49847663720082b1b462390bdf",
+      "commit": "67e1bc8de4003096c503099227375249b98241fe",
       "submodule": "packages/tools/acedataFlux",
       "path": ".",
       "status": "pending",
