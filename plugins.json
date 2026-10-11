@@ -6,7 +6,7 @@
       "version": "0.2.0",
       "type": "tool",
       "source": "https://github.com/AceDataCloud/MidjourneyFastGPT",
-      "commit": "4a1bee1b5f581d5000a7b33d68e6b6e99f1e30fb",
+      "commit": "dbe4d4a897b7ffb9030c95642af76d0645e8c2ce",
       "submodule": "packages/tools/acedataMidjourney",
       "path": ".",
       "status": "pending",
