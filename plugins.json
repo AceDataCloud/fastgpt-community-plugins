@@ -3,10 +3,10 @@
   "plugins": [
     {
       "pluginId": "acedataMidjourney",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "type": "tool",
       "source": "https://github.com/AceDataCloud/MidjourneyFastGPT",
-      "commit": "bbccf885ff1ea56ed5bee57b9397b1a913bc5a6b",
+      "commit": "4a1bee1b5f581d5000a7b33d68e6b6e99f1e30fb",
       "submodule": "packages/tools/acedataMidjourney",
       "path": ".",
       "status": "pending",
