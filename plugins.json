@@ -3,10 +3,10 @@
   "plugins": [
     {
       "pluginId": "acedataQwenImage",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "type": "tool",
       "source": "https://github.com/AceDataCloud/QwenImageFastGPT",
-      "commit": "d9206d757323a3e76571190994ce3f92d0856de5",
+      "commit": "bffbcf6b4fb6bea48a3c0ed25bdbc3779d7957d6",
       "submodule": "packages/tools/acedataQwenImage",
       "path": ".",
       "status": "pending",
