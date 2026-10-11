@@ -6,7 +6,7 @@
       "version": "0.2.0",
       "type": "tool",
       "source": "https://github.com/AceDataCloud/WanFastGPT",
-      "commit": "2c1d623c79ebb2f803cf79c5dfc6ade0877f132d",
+      "commit": "d6808e8ff7617cc3958d0b2f96bbdbc3a091a398",
       "submodule": "packages/tools/acedataWan",
       "path": ".",
       "status": "pending",
