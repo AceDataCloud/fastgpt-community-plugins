@@ -6,7 +6,7 @@
       "version": "0.2.0",
       "type": "tool",
       "source": "https://github.com/AceDataCloud/FishAudioFastGPT",
-      "commit": "c2a0d8bb8f82ba8ddc8b7aa11b5333de6e442907",
+      "commit": "2e291d4143c2941396ef0b86e3f7d3172ae8a786",
       "submodule": "packages/tools/acedataFishAudio",
       "path": ".",
       "status": "pending",
