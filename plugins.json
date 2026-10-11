@@ -3,10 +3,10 @@
   "plugins": [
     {
       "pluginId": "acedataHappyHorse",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "type": "tool",
       "source": "https://github.com/AceDataCloud/HappyHorseFastGPT",
-      "commit": "e7f90ec0dfcff37c05a4420479051ce9ba3034c9",
+      "commit": "676de86109bffef34caa413e0b44977feb4c459a",
       "submodule": "packages/tools/acedataHappyHorse",
       "path": ".",
       "status": "pending",
