@@ -6,7 +6,7 @@
       "version": "0.2.0",
       "type": "tool",
       "source": "https://github.com/AceDataCloud/SunoFastGPT",
-      "commit": "86728777ebe16f52c4e1d921da4634b45b72c230",
+      "commit": "ee8a26355d65d4eda11252bce87374a71cda3128",
       "submodule": "packages/tools/acedataSuno",
       "path": ".",
       "status": "pending",
