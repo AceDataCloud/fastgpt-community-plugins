@@ -6,7 +6,7 @@
       "version": "0.2.0",
       "type": "tool",
       "source": "https://github.com/AceDataCloud/MiniMaxFastGPT",
-      "commit": "226a5ef27c6a7967b288eca4b5a71aa208b16a4b",
+      "commit": "3cff3547a4d66c5202f25a5cb339537d579c4ce6",
       "submodule": "packages/tools/acedataMiniMax",
       "path": ".",
       "status": "pending",
