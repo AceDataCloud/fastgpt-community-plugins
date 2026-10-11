@@ -3,10 +3,10 @@
   "plugins": [
     {
       "pluginId": "acedataFishAudio",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "type": "tool",
       "source": "https://github.com/AceDataCloud/FishAudioFastGPT",
-      "commit": "8fad120e468abed4e593c70cc517351456e37292",
+      "commit": "c2a0d8bb8f82ba8ddc8b7aa11b5333de6e442907",
       "submodule": "packages/tools/acedataFishAudio",
       "path": ".",
       "status": "pending",
