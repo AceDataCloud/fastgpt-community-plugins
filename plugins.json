@@ -3,10 +3,10 @@
   "plugins": [
     {
       "pluginId": "acedataSuno",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "type": "tool",
       "source": "https://github.com/AceDataCloud/SunoFastGPT",
-      "commit": "e997c0d8cb3bcdd39a21b1084ebaf120c276adfc",
+      "commit": "86728777ebe16f52c4e1d921da4634b45b72c230",
       "submodule": "packages/tools/acedataSuno",
       "path": ".",
       "status": "pending",
