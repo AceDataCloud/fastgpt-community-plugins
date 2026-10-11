@@ -6,7 +6,7 @@
       "version": "0.2.0",
       "type": "tool",
       "source": "https://github.com/AceDataCloud/SeedreamFastGPT",
-      "commit": "5d8ca35c3dbaaa3a7737f0af4fa1b7db0c8aca2d",
+      "commit": "fd6f62daa3e75ea1b6b041dbbeabac4845bb93e8",
       "submodule": "packages/tools/acedataSeedream",
       "path": ".",
       "status": "pending",
