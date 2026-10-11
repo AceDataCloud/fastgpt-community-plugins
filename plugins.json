@@ -3,10 +3,10 @@
   "plugins": [
     {
       "pluginId": "acedataKling",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "type": "tool",
       "source": "https://github.com/AceDataCloud/KlingFastGPT",
-      "commit": "2f838f39845134dd1a37fb261ef39400402ad653",
+      "commit": "1ec5e984561e1bf3150cc26f0b68617f7e3af862",
       "submodule": "packages/tools/acedataKling",
       "path": ".",
       "status": "pending",
