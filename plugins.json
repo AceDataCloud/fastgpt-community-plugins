@@ -6,7 +6,7 @@
       "version": "0.2.0",
       "type": "tool",
       "source": "https://github.com/AceDataCloud/FluxFastGPT",
-      "commit": "67e1bc8de4003096c503099227375249b98241fe",
+      "commit": "a46139b58b5f60169b195c7b17c89cef1409edbe",
       "submodule": "packages/tools/acedataFlux",
       "path": ".",
       "status": "pending",
