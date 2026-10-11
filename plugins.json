@@ -6,7 +6,7 @@
       "version": "0.2.0",
       "type": "tool",
       "source": "https://github.com/AceDataCloud/HappyHorseFastGPT",
-      "commit": "676de86109bffef34caa413e0b44977feb4c459a",
+      "commit": "2cc4e0241ca4b45fce3d586e29801adab02b2ac0",
       "submodule": "packages/tools/acedataHappyHorse",
       "path": ".",
       "status": "pending",
