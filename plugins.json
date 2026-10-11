@@ -6,7 +6,7 @@
       "version": "0.2.0",
       "type": "tool",
       "source": "https://github.com/AceDataCloud/VeoFastGPT",
-      "commit": "f3ca51f3fd416d0da4ba9f0afe7bf6caa9c256bd",
+      "commit": "4e4598ba134f4ae9491a49500b0214d899b731d7",
       "submodule": "packages/tools/acedataVeo",
       "path": ".",
       "status": "pending",
