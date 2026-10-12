@@ -3,10 +3,10 @@
   "plugins": [
     {
       "pluginId": "acedataGrok",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "type": "tool",
       "source": "https://github.com/AceDataCloud/GrokFastGPT",
-      "commit": "91c7bffb7f75c6e40141a90759e0b7e15bb6cdf5",
+      "commit": "a201a39b3fab488018620a2f51619d3a90cf5a1b",
       "submodule": "packages/tools/acedataGrok",
       "path": ".",
       "status": "pending",
