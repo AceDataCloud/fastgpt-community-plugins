@@ -6,7 +6,7 @@
       "version": "0.2.0",
       "type": "tool",
       "source": "https://github.com/AceDataCloud/GrokFastGPT",
-      "commit": "45bbefffaabf04e93d38c7596e3f520a755b5bc0",
+      "commit": "91c7bffb7f75c6e40141a90759e0b7e15bb6cdf5",
       "submodule": "packages/tools/acedataGrok",
       "path": ".",
       "status": "pending",
