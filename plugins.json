@@ -6,7 +6,7 @@
       "version": "0.2.0",
       "type": "tool",
       "source": "https://github.com/AceDataCloud/KlingFastGPT",
-      "commit": "45d177a16e25f281fccfd16f03e53d8ae645ad27",
+      "commit": "6a06c3cab09001b4aa146392cdb1c2098d790404",
       "submodule": "packages/tools/acedataKling",
       "path": ".",
       "status": "pending",
