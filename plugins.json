@@ -3,10 +3,10 @@
   "plugins": [
     {
       "pluginId": "acedataMiniMax",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "type": "tool",
       "source": "https://github.com/AceDataCloud/MiniMaxFastGPT",
-      "commit": "27d3306aed9233ecc30f57bab9e0e4376b588140",
+      "commit": "3e4772d56a0dec699b3bfbee66da746fb65e2d14",
       "submodule": "packages/tools/acedataMiniMax",
       "path": ".",
       "status": "pending",
