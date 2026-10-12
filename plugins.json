@@ -3,10 +3,10 @@
   "plugins": [
     {
       "pluginId": "acedataWan",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "type": "tool",
       "source": "https://github.com/AceDataCloud/WanFastGPT",
-      "commit": "e6a2b2bebd2f471997adcf297d6dce5a9266cd83",
+      "commit": "a1a80bd3d4b01e2f66604e153399c5eebeb25ec2",
       "submodule": "packages/tools/acedataWan",
       "path": ".",
       "status": "pending",
