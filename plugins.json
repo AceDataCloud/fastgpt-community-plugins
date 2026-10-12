@@ -3,10 +3,10 @@
   "plugins": [
     {
       "pluginId": "acedataGptImage",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "type": "tool",
       "source": "https://github.com/AceDataCloud/GPTImageFastGPT",
-      "commit": "2462b258adb6cef67b908a86c053615714f07a21",
+      "commit": "771d6d514de0275d0dfe4b4039cdd285c4fdde30",
       "submodule": "packages/tools/acedataGptImage",
       "path": ".",
       "status": "pending",
