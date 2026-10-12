@@ -3,10 +3,10 @@
   "plugins": [
     {
       "pluginId": "acedataSeedream",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "type": "tool",
       "source": "https://github.com/AceDataCloud/SeedreamFastGPT",
-      "commit": "afd7914030f9a3c023e02e5d4c950cc728e94f85",
+      "commit": "a2be9d36789fdae7ddd69be688c354d9d823a638",
       "submodule": "packages/tools/acedataSeedream",
       "path": ".",
       "status": "pending",
