@@ -6,7 +6,7 @@
       "version": "0.2.1",
       "type": "tool",
       "source": "https://github.com/AceDataCloud/QwenImageFastGPT",
-      "commit": "713628758e32cfd17bf126351719749b2eb5fe1d",
+      "commit": "8b35edcbdc06f9206197f5b096958b57d009f68c",
       "submodule": "packages/tools/acedataQwenImage",
       "path": ".",
       "status": "pending",
