@@ -3,10 +3,10 @@
   "plugins": [
     {
       "pluginId": "acedataNanoBanana",
-      "version": "0.2.1",
+      "version": "0.2.2",
       "type": "tool",
       "source": "https://github.com/AceDataCloud/NanoBananaFastGPT",
-      "commit": "032f8939b5e28c077d99eaedd0fe137dc427d550",
+      "commit": "832f41134128491f40a25599991a7efe26bddb8b",
       "submodule": "packages/tools/acedataNanoBanana",
       "path": ".",
       "status": "pending",
