@@ -3,10 +3,10 @@
   "plugins": [
     {
       "pluginId": "acedataSeedance",
-      "version": "0.2.1",
+      "version": "0.2.2",
       "type": "tool",
       "source": "https://github.com/AceDataCloud/SeedanceFastGPT",
-      "commit": "25a9afad127f69c720752fe95114585d0750cf6f",
+      "commit": "8d5195a3d447043c14f2122092acf81c1a7589a9",
       "submodule": "packages/tools/acedataSeedance",
       "path": ".",
       "status": "pending",
