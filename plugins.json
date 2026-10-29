@@ -249,8 +249,9 @@
       "commit": "4152d4875ed5a54b7a52ee8c576267653edb7218",
       "submodule": "packages/tools/deepSeekSearch",
       "path": ".",
-      "status": "pending",
-      "support": "community"
+      "status": "active",
+      "support": "community",
+      "latestPublishEvent": "events/2026-10-29/deepSeekSearch-0.1.0-20261029102707038-published.json"
     },
     {
       "pluginId": "discord",
