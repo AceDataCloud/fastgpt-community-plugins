@@ -184,6 +184,9 @@
 [submodule "packages/tools/databricks"]
 	path = packages/tools/databricks
 	url = https://github.com/Finley-Agent-Zhuazhua/fastgpt-plugin-databricks.git
+[submodule "packages/tools/deepSeekSearch"]
+	path = packages/tools/deepSeekSearch
+	url = https://github.com/c121914yu/fastgpt-plugin-deepseek-search.git
 [submodule "packages/tools/gpt6LunaDecision"]
 	path = packages/tools/gpt6LunaDecision
 	url = https://github.com/c121914yu/gpt6LunaDecision.git
