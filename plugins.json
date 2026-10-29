@@ -369,8 +369,9 @@
       "commit": "f60479787033fc90211a7759f38ac3599e2fd34c",
       "submodule": "packages/tools/gpt6LunaDecision",
       "path": ".",
-      "status": "pending",
-      "support": "community"
+      "status": "active",
+      "support": "community",
+      "latestPublishEvent": "events/2026-10-29/gpt6LunaDecision-1.0.0-20261029075609289-published.json"
     },
     {
       "pluginId": "grafana",
